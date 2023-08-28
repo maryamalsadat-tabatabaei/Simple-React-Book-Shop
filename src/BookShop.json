@@ -1,0 +1,642 @@
+[
+  {
+    "sys": { "id": 1 },
+    "fields": {
+      "name": "To Kill a Mockingbird",
+      "slug": "Love and betrayal in the city",
+      "type": "Romance",
+      "price": 51.59,
+      "size": 73,
+      "capacity": 2,
+      "pets": true,
+      "breakfast": true,
+      "featured": true,
+      "description": "A heartwarming story of friendship and resilience",
+      "extras": ["mystery", "romance", "science fiction"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 2 },
+    "fields": {
+      "name": "The Great Gatsby",
+      "slug": "The secrets they kept",
+      "type": "Thriller",
+      "price": 67.94,
+      "size": 486,
+      "capacity": 2,
+      "pets": false,
+      "breakfast": false,
+      "featured": true,
+      "description": "A thought-provoking exploration of the human condition",
+      "extras": ["fantasy"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 3 },
+    "fields": {
+      "name": "The Great Gatsby",
+      "slug": "Love and betrayal in the city",
+      "type": "Self-help",
+      "price": 27.9,
+      "size": 633,
+      "capacity": 3,
+      "pets": false,
+      "breakfast": true,
+      "featured": true,
+      "description": "A thought-provoking exploration of the human condition",
+      "extras": ["fantasy"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 4 },
+    "fields": {
+      "name": "Pride and Prejudice",
+      "slug": "Love and betrayal in the city",
+      "type": "Thriller",
+      "price": 48.98,
+      "size": 506,
+      "capacity": 2,
+      "pets": false,
+      "breakfast": false,
+      "featured": false,
+      "description": "A heartwarming story of friendship and resilience",
+      "extras": ["fantasy", "thriller", "science fiction", "romance"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 5 },
+    "fields": {
+      "name": "To Kill a Mockingbird",
+      "slug": "A gripping tale of suspense",
+      "type": "Mystery",
+      "price": 58.12,
+      "size": 352,
+      "capacity": 3,
+      "pets": true,
+      "breakfast": true,
+      "featured": false,
+      "description": "A gripping thriller that will leave you on the edge of your seat",
+      "extras": ["romance", "science fiction", "mystery"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 6 },
+    "fields": {
+      "name": "Pride and Prejudice",
+      "slug": "A gripping tale of suspense",
+      "type": "Non-fiction",
+      "price": 28.94,
+      "size": 743,
+      "capacity": 2,
+      "pets": true,
+      "breakfast": false,
+      "featured": false,
+      "description": "A thought-provoking exploration of the human condition",
+      "extras": ["fantasy"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 7 },
+    "fields": {
+      "name": "To Kill a Mockingbird",
+      "slug": "Love and betrayal in the city",
+      "type": "Non-fiction",
+      "price": 21.8,
+      "size": 609,
+      "capacity": 2,
+      "pets": true,
+      "breakfast": true,
+      "featured": true,
+      "description": "A gripping thriller that will leave you on the edge of your seat",
+      "extras": ["mystery", "fantasy", "romance"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 8 },
+    "fields": {
+      "name": "To Kill a Mockingbird",
+      "slug": "The secrets they kept",
+      "type": "Fiction",
+      "price": 59.21,
+      "size": 331,
+      "capacity": 1,
+      "pets": false,
+      "breakfast": false,
+      "featured": true,
+      "description": "A heartwarming story of friendship and resilience",
+      "extras": ["science fiction", "mystery", "romance"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 9 },
+    "fields": {
+      "name": "The Catcher in the Rye",
+      "slug": "The secrets they kept",
+      "type": "Fantasy",
+      "price": 69.34,
+      "size": 315,
+      "capacity": 3,
+      "pets": false,
+      "breakfast": false,
+      "featured": true,
+      "description": "A thought-provoking exploration of the human condition",
+      "extras": ["fantasy", "thriller"],
+
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 10 },
+    "fields": {
+      "name": "1984",
+      "slug": "The secrets they kept",
+      "type": "Science Fiction",
+      "price": 58.88,
+      "size": 141,
+      "capacity": 2,
+      "pets": false,
+      "breakfast": false,
+      "featured": true,
+      "description": "A thought-provoking exploration of the human condition",
+      "extras": [
+        "romance",
+        "mystery",
+        "science fiction",
+        "thriller",
+        "fantasy"
+      ],
+
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1501110365.01.S001.JUMBOXXX.jpg?Expires=1693317359&Signature=Mp90Ifz9F~kKd68Wort4yW3HuWz9ptb5b0VXAOqiI2Sm65J2AMRqRpiH4m8-9o2EqanGwPxd1kcveK8XDMwQnsP~RfbzY8G56BvrVXckH7a~LXZcDYYcw-6TgDaxT3L7~13~wvCNreNEur3Zk~qnpzXb1K70xhRR8z398Xrb7fo_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 11 },
+    "fields": {
+      "name": "The Catcher in the Rye",
+      "slug": "Love and betrayal in the city",
+      "type": "Thriller",
+      "price": 34.05,
+      "size": 221,
+      "capacity": 1,
+      "pets": true,
+      "breakfast": false,
+      "featured": false,
+      "description": "A thought-provoking exploration of the human condition",
+      "extras": [
+        "mystery",
+        "thriller",
+        "fantasy",
+        "romance",
+        "science fiction"
+      ],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 12 },
+    "fields": {
+      "name": "Pride and Prejudice",
+      "slug": "The secrets they kept",
+      "type": "Romance",
+      "price": 47.75,
+      "size": 87,
+      "capacity": 1,
+      "pets": false,
+      "breakfast": true,
+      "featured": false,
+      "description": "A captivating tale of love and adventure",
+      "extras": ["mystery", "fantasy"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 13 },
+    "fields": {
+      "name": "1984",
+      "slug": "A journey to self-discovery",
+      "type": "Thriller",
+      "price": 39.08,
+      "size": 231,
+      "capacity": 1,
+      "pets": true,
+      "breakfast": false,
+      "featured": true,
+      "description": "A captivating tale of love and adventure",
+      "extras": ["romance", "fantasy", "thriller"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 14 },
+    "fields": {
+      "name": "To Kill a Mockingbird",
+      "slug": "A gripping tale of suspense",
+      "type": "History",
+      "price": 24.58,
+      "size": 621,
+      "capacity": 1,
+      "pets": true,
+      "breakfast": true,
+      "featured": false,
+      "description": "A gripping thriller that will leave you on the edge of your seat",
+      "extras": ["science fiction", "thriller", "romance", "fantasy"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 15 },
+    "fields": {
+      "name": "The Catcher in the Rye",
+      "slug": "A gripping tale of suspense",
+      "type": "Biography",
+      "price": 35.51,
+      "size": 609,
+      "capacity": 3,
+      "pets": false,
+      "breakfast": false,
+      "featured": true,
+      "description": "An intriguing mystery that will keep you guessing",
+      "extras": ["fantasy"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 16 },
+    "fields": {
+      "name": "To Kill a Mockingbird",
+      "slug": "A gripping tale of suspense",
+      "type": "Fiction",
+      "price": 28.33,
+      "size": 115,
+      "capacity": 1,
+      "pets": true,
+      "breakfast": false,
+      "featured": true,
+      "description": "A thought-provoking exploration of the human condition",
+      "extras": ["thriller"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 17 },
+    "fields": {
+      "name": "Pride and Prejudice",
+      "slug": "Unraveling the mystery",
+      "type": "Non-fiction",
+      "price": 30.66,
+      "size": 533,
+      "capacity": 1,
+      "pets": false,
+      "breakfast": false,
+      "featured": false,
+      "description": "A gripping thriller that will leave you on the edge of your seat",
+      "extras": ["mystery", "science fiction"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 18 },
+    "fields": {
+      "name": "The Catcher in the Rye",
+      "slug": "The secrets they kept",
+      "type": "Mystery",
+      "price": 32.11,
+      "size": 707,
+      "capacity": 1,
+      "pets": true,
+      "breakfast": true,
+      "featured": false,
+      "description": "A heartwarming story of friendship and resilience",
+      "extras": ["mystery", "thriller", "science fiction"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 19 },
+    "fields": {
+      "name": "The Great Gatsby",
+      "slug": "The secrets they kept",
+      "type": "Mystery",
+      "price": 61.84,
+      "size": 703,
+      "capacity": 2,
+      "pets": true,
+      "breakfast": true,
+      "featured": true,
+      "description": "An intriguing mystery that will keep you guessing",
+      "extras": ["fantasy", "science fiction"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        },
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "sys": { "id": 20 },
+    "fields": {
+      "name": "Pride and Prejudice",
+      "slug": "Love and betrayal in the city",
+      "type": "Fiction",
+      "price": 64.19,
+      "size": 527,
+      "capacity": 2,
+      "pets": false,
+      "breakfast": false,
+      "featured": true,
+      "description": "A thought-provoking exploration of the human condition",
+      "extras": ["thriller"],
+      "images": [
+        {
+          "fields": {
+            "file": {
+              "url": "https://d1b14unh5d6w7g.cloudfront.net/1544512279.01.S001.JUMBOXXX.jpg?Expires=1693318306&Signature=JBNme1dcxQyHClK6r4IzUYQU~afN~wH8WmymAucbETwioiPbl~dPJa0sfbqT0oRQDmDIEIUYeBLpKomj-lCnloevNOkF1~vO8XdFwMy0fRRYkl4Zt42Di-tM9YDmBx7jrNvbjwiWN10EPFn8d9zv-gQfahYKANaAPXRNQe-d9xA_&Key-Pair-Id=APKAIUO27P366FGALUMQ"
+            }
+          }
+        }
+      ]
+    }
+  }
+]
