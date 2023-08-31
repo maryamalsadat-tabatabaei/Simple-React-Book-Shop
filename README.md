@@ -6,10 +6,9 @@ This is a modern, responsive application built using React and Vite. It allows u
 
 
 
-
-<img src="https://github.com/maryamalsadat-tabatabaei/SimpleReactBookShopApp/assets/87692864/c81f7038-c0cb-40d7-a845-05bcdbb132be" alt="Book Home page" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/SimpleReactBookShopApp/assets/87692864/a8cd64e2-f69b-473a-8ca9-64d4c803c7e5" alt="Book List Accommodation" width="300px" height="300px" >
-<img src="https://github.com/maryamalsadat-tabatabaei/SimpleReactBookShopApp/assets/87692864/004ac481-3ee9-43f4-aed1-db7b08995f6e" alt="Book Detail" width="300px" height="300px">
+<img src="https://github.com/maryamalsadat-tabatabaei/SimpleReactBookShopApp/assets/87692864/8029a19f-10da-4576-9baa-c6f25f994b70" alt="Book Home page" width="30%" height="600px">
+<img src="https://github.com/maryamalsadat-tabatabaei/SimpleReactBookShopApp/assets/87692864/15eb3b97-70e7-4058-a27f-7c593ab9b187" alt="Book List Accommodation" width="30%" height="600px" >
+<img src="https://github.com/maryamalsadat-tabatabaei/SimpleReactBookShopApp/assets/87692864/a7b42f01-63c1-4f1f-8c87-c83dde070575" alt="Book Detail" width="30%" height="600px">
 
 
 ## Table of Contents
